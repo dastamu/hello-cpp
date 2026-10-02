@@ -48,3 +48,8 @@ g++ -std=c++98 hello.cpp -o hello
 ./hello
 " Hello in C++ World (199711)!"
 ```
+## License
+[License](LICENSE) MIT
+
+## Author
+**dastamu** - [Profil GitHub](https://github.com/dastamu)
