@@ -17,6 +17,11 @@ pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain
 pacman -Syu
 pacman -S --needed base-devel mingw-w64-clang-x86_64-toolchain
 ```
+### EL 10
+```sh
+sudo dnf update
+sudo dnf install gcc make cmake meson ninja-build
+```
 ## Build & Running
 ```sh
 ./build.sh
