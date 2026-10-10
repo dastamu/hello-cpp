@@ -20,7 +20,7 @@ pacman -S --needed base-devel mingw-w64-clang-x86_64-toolchain
 ### EL 10
 ```sh
 sudo dnf update
-sudo dnf install gcc make cmake meson ninja-build
+sudo dnf install g++
 ```
 ## Build & Running
 ```sh
