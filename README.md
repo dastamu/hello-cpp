@@ -2,6 +2,11 @@
 Simple HelloWorld aplication in C++
 
 ## Dependences
+### MSYS2 (POSIX)
+```sh
+pacman -Syu
+pacman -S gcc
+```
 ### MINGW64
 ```sh
 pacman -Syu
