@@ -2,22 +2,22 @@
 Simple HelloWorld aplication in C++
 
 ## Dependences
-### MSYS2 MSYS
+### MSYS2 MSYS Shell
 ```sh
 pacman -Syu
 pacman -S gcc
 ```
-### MSYS2 MINGW64
+### MSYS2 MINGW64 Shell
 ```sh
 pacman -Syu
 pacman -S --needed base-devel mingw-w64-x86_64-toolchain
 ```
-### MSYS2 UCRT64
+### MSYS2 UCRT64 Shell
 ```sh
 pacman -Syu
 pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain
 ```
-### MSYS2 CLANG64
+### MSYS2 CLANG64 Shell
 ```sh
 pacman -Syu
 # full 1841,96 MiB
